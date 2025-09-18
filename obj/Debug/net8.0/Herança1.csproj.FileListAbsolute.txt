@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Herança1\bin\Debug\net8.0\Herança1.exe
+C:\Users\ET73\Downloads\projetos-c#\Herança1\bin\Debug\net8.0\Herança1.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Herança1\bin\Debug\net8.0\Herança1.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Herança1\bin\Debug\net8.0\Herança1.dll
+C:\Users\ET73\Downloads\projetos-c#\Herança1\bin\Debug\net8.0\Herança1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.dll
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\refint\Herança1.dll
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\Herança1.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Herança1\obj\Debug\net8.0\ref\Herança1.dll
